@@ -1,0 +1,13 @@
+.Products {
+}
+.product {
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  transition: 0.5s all;
+}
+.product:hover {
+  box-shadow: 5px 5px 5px rgb(165, 117, 117);
+  transform: scale(1.1);
+}

@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.product:hover {
+  box-shadow: 5px 5px 5px white;
+  transform: scale(1.1);
+}
+
+.product .btn {
+  transition: transform 0.5s, opacity 1s;
+  transform: translateY(100%);
+  opacity: 0;
+}
+.product:hover .btn {
+  opacity: 1;
+  transform: translateY(0%);
+}
+.bg-main {
+  background-color: #f1f1f1;
+  color: black !important;
+}
