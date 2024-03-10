@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/FerchCartApi/static/css/main.cd1b6d3d.css",
+    "main.js": "/FerchCartApi/static/js/main.43dcad90.js",
+    "static/js/453.4297e0f3.chunk.js": "/FerchCartApi/static/js/453.4297e0f3.chunk.js",
+    "static/media/emblem-Paypal.jpg": "/FerchCartApi/static/media/emblem-Paypal.8933d502ae49871d2db1.jpg",
+    "static/media/fa-solid-900.ttf": "/FerchCartApi/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/slider-image-1.jpeg": "/FerchCartApi/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/grocery-banner.png": "/FerchCartApi/static/media/grocery-banner.2c56649c9cbe2e19b86f.png",
+    "static/media/fa-brands-400.ttf": "/FerchCartApi/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/slider-image-3.jpeg": "/FerchCartApi/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/FerchCartApi/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/grocery-banner-2.jpeg": "/FerchCartApi/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
+    "static/media/fa-solid-900.woff2": "/FerchCartApi/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/FerchCartApi/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/apple-app-store-logo.jpg": "/FerchCartApi/static/media/apple-app-store-logo.fe019baa27a56b8817a7.jpg",
+    "static/media/MasterCard_Logo.svg.png": "/FerchCartApi/static/media/MasterCard_Logo.svg.654f470c44810125552e.png",
+    "static/media/fa-regular-400.ttf": "/FerchCartApi/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/FerchCartApi/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/FerchCartApi/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/google-play-badge-english-get-it-on-google-play7825.logowik.com.webp": "/FerchCartApi/static/media/google-play-badge-english-get-it-on-google-play7825.logowik.com.ad19bbbf57a91ac07dc5.webp",
+    "static/media/fa-v4compatibility.woff2": "/FerchCartApi/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/slick.svg": "/FerchCartApi/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/FerchCartApi/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/FerchCartApi/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/FerchCartApi/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/FerchCartApi/index.html",
+    "main.cd1b6d3d.css.map": "/FerchCartApi/static/css/main.cd1b6d3d.css.map",
+    "main.43dcad90.js.map": "/FerchCartApi/static/js/main.43dcad90.js.map",
+    "453.4297e0f3.chunk.js.map": "/FerchCartApi/static/js/453.4297e0f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd1b6d3d.css",
+    "static/js/main.43dcad90.js"
+  ]
+}
